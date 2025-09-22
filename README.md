@@ -109,30 +109,3 @@ $~$
 </p>
 
 $~$
-
-**Set Up Your Environment**
-
-1. `Fork` our repository to your GitHub account. 
-2. `Clone` your fork to your local machine. 
-    Use the command `git clone https://github.com/RS-labhub/I-Love-You/.git`.
-3. Create a new branch for your work. 
-    Use a descriptive name, like `fix-login-bug` or `add-user-profile-page`.
-    
-**Commit Your Changes**
-
-- Commit your changes with a _clear commit message_. 
-  e.g `git commit -m "Fix login bug by updating auth logic"`.
-
-**Submit a Pull Request**
-
-- Push your branch and changes to your fork on GitHub.
-- Create a pull request, compare branches and submit.
-- Provide a detailed description of what changes you've made and why. 
-  Link the pull request to the issue it resolves. 🔗
-    
-**Review and Merge**
-
-- I will review your pull request and provide feedback or request changes if necessary. 
-- Once your pull request is approved, we will merge it into the main codebase 🥳
-
-
